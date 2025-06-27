@@ -4,15 +4,10 @@ import './Home.css'
 
 const Home = ()=> {
     return (
-        <div className="pokeflex">
-            <img src={poke} />
-            <img src={eevee} />
-            <img src={poke} />
-            <img src={eevee} />
-            <img src={poke} />
-            <img src={eevee} />
+        <div className="Home">
+            <h1>Home</h1>
         </div>
-    )
-}
+    );
+};
 
 export default Home
