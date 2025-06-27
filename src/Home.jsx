@@ -6,6 +6,12 @@ const Home = ()=> {
     return (
         <div className="Home">
             <h1>Home</h1>
+            <img src={poke} />
+            <img src={eevee} />
+            <img src={poke} />
+            <img src={eevee} />
+            <img src={poke} />
+            <img src={eevee} />
         </div>
     );
 };
